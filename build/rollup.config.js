@@ -24,7 +24,6 @@ const config = {
         resolve({
             jsnext: true,
             main: true,
-            browser: true,
         }),
         vue({
             css: false,

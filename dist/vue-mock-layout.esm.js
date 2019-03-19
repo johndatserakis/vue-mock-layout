@@ -3,7 +3,7 @@ import VueScreenSize from 'vue-screen-size';
 //
 
 var script = {
-    name: 'vue-template',
+    name: 'vue-mock-layout',
     mixins: [VueScreenSize.VueScreenSizeMixin],
     props: {
         mobileBreakpoint: {
@@ -11,7 +11,7 @@ var script = {
             required: false,
             default: 992
         },
-        deskTopHeight: {
+        desktopHeight: {
             type: Number,
             required: false,
             default: 100

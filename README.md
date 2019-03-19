@@ -57,13 +57,13 @@ Vue.component('vue-mock-layout', VueMockLayout)
 
 ```html
 <vue-mock-layout
-    :mobileBreakpoint="992"
-    :deskTopHeight="150"
-    :mobileHeight="100"
+    :mobile-breakpoint="992"
+    :desktop-height="150"
+    :mobile-height="100"
     :background="'#128AB2'"
-    :textColor="'#fff'"
+    :text-color="'#fff'"
     :text="'navbar'"
-    :fontSize="'2rem'"
+    :font-size="'2rem'"
 ></vue-mock-layout>
 ```
 Note - all props are optional. If you don't set any props then it will output a simple template section.
@@ -88,6 +88,10 @@ Note - all props are optional. If you don't set any props then it will output a 
     }
 }
 ```
+
+### Browser Example
+
+[See on CodePen](https://codepen.io/johndatserakis/pen/eXLYPG)
 
 ### Development
 

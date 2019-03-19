@@ -23,7 +23,7 @@
 import VueScreenSize from 'vue-screen-size'
 
 export default {
-    name: 'vue-template',
+    name: 'vue-mock-layout',
     mixins: [VueScreenSize.VueScreenSizeMixin],
     props: {
         mobileBreakpoint: {
@@ -31,7 +31,7 @@ export default {
             required: false,
             default: 992
         },
-        deskTopHeight: {
+        desktopHeight: {
             type: Number,
             required: false,
             default: 100

@@ -9,7 +9,7 @@
     //
 
     var script = {
-        name: 'vue-template',
+        name: 'vue-mock-layout',
         mixins: [VueScreenSize.VueScreenSizeMixin],
         props: {
             mobileBreakpoint: {
@@ -17,7 +17,7 @@
                 required: false,
                 default: 992
             },
-            deskTopHeight: {
+            desktopHeight: {
                 type: Number,
                 required: false,
                 default: 100

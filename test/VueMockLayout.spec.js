@@ -5,7 +5,7 @@ describe('VueMockLayout.vue', () => {
     it('Sets props correctly', async () => {
         let initialPropsData = {
             mobileBreakpoint: 992,
-            deskTopHeight: 200,
+            desktopHeight: 200,
             mobileHeight: 100,
             background: '#eee',
             textColor: '#333',
@@ -16,7 +16,7 @@ describe('VueMockLayout.vue', () => {
         const wrapper = shallowMount(VueMockLayout, {
             propsData: {
                 mobileBreakpoint: initialPropsData.mobileBreakpoint,
-                deskTopHeight: initialPropsData.deskTopHeight,
+                desktopHeight: initialPropsData.desktopHeight,
                 mobileHeight: initialPropsData.mobileHeight,
                 background: initialPropsData.background,
                 textColor: initialPropsData.textColor,
@@ -26,7 +26,7 @@ describe('VueMockLayout.vue', () => {
         })
 
         expect(wrapper.vm.mobileBreakpoint).toBe(initialPropsData.mobileBreakpoint)
-        expect(wrapper.vm.deskTopHeight).toBe(initialPropsData.deskTopHeight)
+        expect(wrapper.vm.desktopHeight).toBe(initialPropsData.desktopHeight)
         expect(wrapper.vm.mobileHeight).toBe(initialPropsData.mobileHeight)
         expect(wrapper.vm.background).toBe(initialPropsData.background)
         expect(wrapper.vm.textColor).toBe(initialPropsData.textColor)
