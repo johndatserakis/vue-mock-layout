@@ -148,7 +148,7 @@ var __vue_render__ = function() {
         style: {
           height:
             _vm.$vssWidth > _vm.mobileBreakpoint
-              ? _vm.deskTopHeight + "px"
+              ? _vm.desktopHeight + "px"
               : _vm.mobileHeight + "px",
           background: _vm.background
         }

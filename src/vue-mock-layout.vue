@@ -4,7 +4,7 @@
         <div
             class="vue-mock-layout"
             :style="{
-                height: ($vssWidth > mobileBreakpoint) ? deskTopHeight + 'px' : mobileHeight + 'px',
+                height: ($vssWidth > mobileBreakpoint) ? desktopHeight + 'px' : mobileHeight + 'px',
                 background: background
             }"
         >

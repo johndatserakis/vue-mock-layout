@@ -154,7 +154,7 @@
             style: {
               height:
                 _vm.$vssWidth > _vm.mobileBreakpoint
-                  ? _vm.deskTopHeight + "px"
+                  ? _vm.desktopHeight + "px"
                   : _vm.mobileHeight + "px",
               background: _vm.background
             }

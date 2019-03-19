@@ -31,9 +31,9 @@ yarn add vue-mock-layout
 Or you can include it through the browser at the bottom of your page along with the css:
 
 ```html
-<script src="https://unpkg.com/vue-mock-layout@1.0.0/dist/vue-mock-layout.min.js"></script>
+<script src="https://unpkg.com/vue-mock-layout@1.1.1/dist/vue-mock-layout.min.js"></script>
 
-<link rel="stylesheet" type="text/css" href="https://unpkg.com/vue-mock-layout@1.0.0/dist/vue-mock-layout.css">
+<link rel="stylesheet" type="text/css" href="https://unpkg.com/vue-mock-layout@1.1.1/dist/vue-mock-layout.css">
 ```
 
 ### About

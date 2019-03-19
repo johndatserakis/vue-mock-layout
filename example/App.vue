@@ -61,7 +61,7 @@
 
         <vue-mock-layout
             :mobileBreakpoint="992"
-            :deskTopHeight="150"
+            :desktopHeight="150"
             :mobileHeight="100"
             :background="'#128AB2'"
             :textColor="'#fff'"
@@ -71,7 +71,7 @@
 
         <vue-mock-layout
             :mobileBreakpoint="992"
-            :deskTopHeight="350"
+            :desktopHeight="350"
             :mobileHeight="100"
             :background="'#04D6A0'"
             :textColor="'#fff'"
@@ -81,7 +81,7 @@
 
         <vue-mock-layout
             :mobileBreakpoint="992"
-            :deskTopHeight="250"
+            :desktopHeight="250"
             :mobileHeight="100"
             :background="'#FFD166'"
             :textColor="'#333'"
@@ -91,7 +91,7 @@
 
         <vue-mock-layout
             :mobileBreakpoint="992"
-            :deskTopHeight="150"
+            :desktopHeight="150"
             :mobileHeight="100"
             :background="'#EE476F'"
             :textColor="'#fff'"
