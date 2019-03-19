@@ -73,7 +73,7 @@ Note - all props are optional. If you don't set any props then it will output a 
 | prop | type | required | default | description |
 |----------------|---------|----------|-----------------|-------------------------------------|
 | mobileBreakpoint | Number | no | 992 | Width at which the mobile options are used |
-| deskTopHeight | Number | no | 200 | Height of the sections for desktops |
+| desktopHeight | Number | no | 200 | Height of the sections for desktops |
 | mobileHeight | Number | no | 100 | Height of the sections for mobile |
 | background | String | no | '#128AB2' | Background color |
 | textColor | String | no | '#fff' | Text color |

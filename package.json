@@ -1,6 +1,6 @@
 {
   "name": "vue-mock-layout",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Easily mock the layout of your Vue apps.",
   "author": "John Datserakis <johndatserakis@gmail.com>",
   "license": "MIT",
