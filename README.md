@@ -4,7 +4,7 @@ Easily mock the layout of your Vue apps.
 
 <p align="left">
   <a href="https://www.npmjs.com/package/vue-mock-layout"><img src="https://img.shields.io/npm/v/vue-mock-layout.svg" alt="NPM Version"></a>
-  <a href="https://www.npmjs.com/package/vue-mock-layout"><img src="https://img.shields.io/npm/dt/vue-mock-layout.svg" alt="NPM Downloads"></a>
+  <a href="https://www.npmjs.com/package/vue-mock-layout"><img src="https://img.shields.io/npm/dm/vue-mock-layout.svg" alt="NPM Downloads"></a>
   <a href="http://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
   <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fpromosis%2Fvue-mock-layout&text=Check%20out%20vue-mock-layout%20on%20GitHub&via=promosis">
   <img src="https://img.shields.io/twitter/url/https/github.com/promosis/vue-mock-layout.svg?style=social" alt="Tweet"></a>
